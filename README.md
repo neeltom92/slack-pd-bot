@@ -1,6 +1,6 @@
 # slack-pd-bot
 
-A Slack bot to interact with PagerDuty. This is a work-in-progress project, and I'm sharing the first iteration(I use semantic_version to keep track) for feedback.
+A Slack bot to interact with PagerDuty. This is a work-in-progress project, and I'm sharing the first iteration(I use [semantic_version](https://github.com/neeltom92/slack-pd-bot/tags) to keep track of release) for feedback.
 
 ## Introduction
 
