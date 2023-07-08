@@ -31,9 +31,6 @@ This project was created out of a requirement to use [Chatops](https://response.
 #### oncall schedule in PagerDuty
 ![Screenshot 3](https://github.com/neeltom92/slack-pd-bot/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8)
 
-<img width="418" alt="Screenshot 2023-07-08 at 4 24 38 PM" src="https://github.com/neeltom92/slack-pd-bot/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8">
-
-
 **As you can see on making the query in slack the bot returned the user who's on call for that team**.
 
 ## TODO
