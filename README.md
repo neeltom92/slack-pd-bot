@@ -1,6 +1,6 @@
 # slack-pd-bot
 
-A Slack bot to interact with PagerDuty. This is a work-in-progress project, and I'm sharing the first iteration(I use [semantic_version](https://github.com/neeltom92/slack-pd-bot/tags) to keep track of release) for feedback.
+A Slack bot to interact with PagerDuty. This is a work-in-progress, side project I created over the Independence day week ![Screenshot 4](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) off this July, and I'm sharing the first iteration for feedback loop only.(I use [semantic_version](https://github.com/neeltom92/slack-pd-bot/tags) to keep track of release) 
 
 ## Introduction
 
@@ -17,7 +17,7 @@ This project was created out of a requirement to use [Chatops](https://response.
 
 ## Running the Code in local
 
-1. To run the code, simply call the main.go file.
+1. To run the code, simply call the main.go file, after updating the tokens
 2. In Slack, call "@botname devops oncall". This will **return the person who's on call for that team**. Please refer to the attached snapshots for reference.
 
 ### Attached Snapshots
