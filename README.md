@@ -18,20 +18,20 @@ This project was created to fulfill the requirement of using ChatOps to manage i
 ## Running the Code
 
 1. To run the code, simply call the main.go file.
-2. In Slack, call "@botname devops oncall". This will return the person who is on-call for the DevOps team. Please refer to the attached snapshots for reference.
+2. In Slack, call "@botname devops oncall". This will **return the person who's on call for that team**. Please refer to the attached snapshots for reference.
 
 ### Attached Snapshots
 
 #### Running the code
-![Screenshot 1](https://github.com/neeltom92/slack-pd-bot/assets/135661004/c3f396ce-e3d7-42a5-82a1-df05d51feee0)
+<img src="https://github.com/neeltom92/slack-pd-bot/blob/main/assets/135661004/c3f396ce-e3d7-42a5-82a1-df05d51feee0.png?raw=true" width="400" />
 
-#### PD oncall Schdule
-![Screenshot 3](https://github.com/neeltom92/slack-pd-bot/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8)
+#### PD oncall Schedule
+<img src="https://github.com/neeltom92/slack-pd-bot/blob/main/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8.png?raw=true" width="400" />
 
 #### Slack input
-![Screenshot 2](https://github.com/neeltom92/slack-pd-bot/assets/135661004/97854c37-870e-4fba-a51e-249274e7a8c1)
+<img src="https://github.com/neeltom92/slack-pd-bot/blob/main/assets/135661004/97854c37-870e-4fba-a51e-249274e7a8c1.png?raw=true" width="400" />
 
-As you can see it returned the user who's oncall for that team
+**As you can see on making the query in slack the bot returned the user who's on call for that team**.
 
 ## TODO
 
