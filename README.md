@@ -22,14 +22,16 @@ This project was created to fulfill the requirement of using ChatOps to manage i
 
 ### Attached Snapshots
 
-1. Running the code
-![Screenshot 2023-07-08 at 4 24 50 PM](https://github.com/neeltom92/slack-pd-bot/assets/135661004/c3f396ce-e3d7-42a5-82a1-df05d51feee0)
+#### Running the code
+![Screenshot 1](https://github.com/neeltom92/slack-pd-bot/assets/135661004/c3f396ce-e3d7-42a5-82a1-df05d51feee0)
 
-2. Slack input
-![Screenshot 2023-07-08 at 4 24 38 PM](https://github.com/neeltom92/slack-pd-bot/assets/135661004/97854c37-870e-4fba-a51e-249274e7a8c1)
+#### PD oncall Schdule
+![Screenshot 3](https://github.com/neeltom92/slack-pd-bot/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8)
 
-3. Output
-![Screenshot 2023-07-08 at 4 25 21 PM](https://github.com/neeltom92/slack-pd-bot/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8)
+#### Slack input
+![Screenshot 2](https://github.com/neeltom92/slack-pd-bot/assets/135661004/97854c37-870e-4fba-a51e-249274e7a8c1)
+
+As you can see it returned the user who's oncall for that team
 
 ## TODO
 
