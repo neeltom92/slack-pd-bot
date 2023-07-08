@@ -23,13 +23,16 @@ This project was created to fulfill the requirement of using ChatOps to manage i
 ### Attached Snapshots
 
 #### Running the code
-<img src="https://github.com/neeltom92/slack-pd-bot/blob/main/assets/135661004/c3f396ce-e3d7-42a5-82a1-df05d51feee0.png?raw=true" width="400" />
-
-#### PD oncall Schedule
-<img src="https://github.com/neeltom92/slack-pd-bot/blob/main/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8.png?raw=true" width="400" />
+<img width="418" alt="Screenshot 2023-07-08 at 424 38 PM" src="https://github.com/neeltom92/slack-pd-bot/assets/135661004/c3f396ce-e3d7-42a5-82a1-df05d51feee0">
 
 #### Slack input
-<img src="https://github.com/neeltom92/slack-pd-bot/blob/main/assets/135661004/97854c37-870e-4fba-a51e-249274e7a8c1.png?raw=true" width="400" />
+<img width="418" alt="Screenshot 2023-07-08 at 44 38 PM" src="https://github.com/neeltom92/slack-pd-bot/assets/135661004/5b737c66-f3ef-4e03-b6f2-f4148cd482fc">
+
+#### Output
+![Screenshot 3](https://github.com/neeltom92/slack-pd-bot/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8)
+
+<img width="418" alt="Screenshot 2023-07-08 at 4 24 38 PM" src="https://github.com/neeltom92/slack-pd-bot/assets/135661004/3444198b-5d7c-4b64-8809-ec41b470a6c8">
+
 
 **As you can see on making the query in slack the bot returned the user who's on call for that team**.
 
