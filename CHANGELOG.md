@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/neeltom92/slack-pd-bot/compare/v1.0.9...v1.0.10) (2023-07-09)
+
+
+### Fix
+
+* updated the code ([899028e](https://github.com/neeltom92/slack-pd-bot/commit/899028e85b4928ff7b8a2bb584127764cc801534))
+
 ## [1.0.9](https://github.com/neeltom92/slack-pd-bot/compare/v1.0.8...v1.0.9) (2023-07-08)
 
 
