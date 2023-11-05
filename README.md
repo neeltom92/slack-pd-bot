@@ -1,6 +1,6 @@
 # slack-pd-bot
 
-A Slack bot written in [Golang](https://go.dev/) to interact with PagerDuty. This is a work-in-progress, side project I created over the Independence day week ![Screenshot 4](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) off this July 2023, and I'm sharing the first iteration for feedback loop only.(I use [semantic_version](https://github.com/neeltom92/slack-pd-bot/tags) to keep track of release)
+A Slack bot written in [Golang](https://go.dev/) to interact with PagerDuty, this is the first iteration for feedback loop only, better version will be released.(I use [semantic_version](https://github.com/neeltom92/slack-pd-bot/tags) to keep track of release)
 
 ## Introduction
 
